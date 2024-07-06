@@ -1,0 +1,9 @@
+x = case libre
+y = mur
+e = entré/sortie
+t = étage supérieur
+g = étage inférieur
+c = cave
+
+première ligne= nombre d ecase a lire (hauteur/largeur / nombre d'étages)
+avec séparateur /

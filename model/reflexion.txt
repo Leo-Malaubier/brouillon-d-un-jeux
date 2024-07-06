@@ -1,0 +1,5 @@
+comment faire pour qu'a partir d'une seed, on peux connaitre chaque éléménet
+d'un terrain pour qu'il puisse être générer facilement et de la même facon peut importe
+combien de fois on la génère
+
+Pour cela,

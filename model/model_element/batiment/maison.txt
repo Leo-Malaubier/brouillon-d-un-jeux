@@ -1,0 +1,36 @@
+1010
+Level1
+y	y	y	y	y	y	y	y	y	y
+y	x	x	x	y	x	x	y	g	y
+y	x	x	x	y	x	x	y	x	y
+y	x	x	x	y	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	y	y	y	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	y	y	y
+y	x	x	x	x	x	x	x	t	y
+y	y	y	y	e	e	y	y	y	y
+
+Level2
+y	y	y	y	y	y	y	y	y	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	g	y
+y	y	y	y	y	y	y	y	y	y
+
+Lower Level0
+y	y	y	y	y	y	y	y	y	y
+y	x	x	y	x	x	x	x	t	y
+y	x	x	y	x	x	x	x	x	y
+y	x	y	y	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	x	x	x	x	x	x	x	x	y
+y	y	y	y	y	y	y	y	y	y
